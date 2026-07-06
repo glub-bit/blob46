@@ -12,6 +12,6 @@ This a reversable 100x100mm pcb split keyboard with a number row. Compatible wit
 | M2 heated inserts Length: 3mm OD: 4mm | 12 | https://www.aliexpress.us/item/3256803396040989.html?spm= | $1.69 |
 | PJ-320A | 2 | https://www.aliexpress.us/item/3256805376463085.html?spm= | $1.21 |
 | TRRS male to male cable | 2 | https://www.aliexpress.us/item/3256809654236904.html?spm= | $2.78 |
-| Poron foam 3mm thickness | 12-14 | https://www.aliexpress.us/item/3256806077981729.html?spm=](https://www.aliexpress.us/item/3256803420779042.html?spm= | $2.24 |
+| Poron foam 3mm thickness | 24-28 | https://www.aliexpress.us/item/3256806077981729.html?spm=](https://www.aliexpress.us/item/3256803420779042.html?spm= | $2.24 |
 
 *pricing may change
